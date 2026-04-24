@@ -49,4 +49,4 @@ _Order Status_: Over 94% of the orders are successfully delivered or processed, 
 
 -_Diversified Logistics_: Evaluate why Electronics has slightly higher shipping costs. Small optimizations in packaging for this category could yield significant annual savings.
 
--_Discount Optimization_: The data shows that high discounts do not always correlate linearly with massive volume spikes. I recommend a "Value-Based Pricing" model rather than heavy discounting to preserve margins.
+-_Discount Optimization_: The data shows that high discounts do not always correlate linearly with massive volume spikes. A "Value-Based Pricing" model is recommended rather than heavy discounting to preserve margins.
