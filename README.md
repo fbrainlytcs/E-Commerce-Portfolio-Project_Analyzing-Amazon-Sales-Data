@@ -16,36 +16,36 @@ Below are the __key insights__ and __strategic pillars__ for our long-term susta
 __1. Financial Performance & Market Reach__
 Our revenue is anchored by the United States, which contributes $64.3M (approx. 70%) of total sales. India follows as a secondary but significant growth market.
 
-Average Order Value (AOV): $918.26, indicating a premium-leaning customer base.
+_Average Order Value (AOV)_: $918.26, indicating a premium-leaning customer base.
 
-Payment Ecosystem: Credit Cards are the dominant payment method ($32.1M), followed by Debit Cards and UPI. This suggests our customers prefer traditional and digital credit-based transactions.
+_Payment Ecosystem_: Credit Cards are the dominant payment method ($32.1M), followed by Debit Cards and UPI. This suggests our customers prefer traditional and digital credit-based transactions.
 
 __2. Product Portfolio & Brand Strength__
 The revenue is remarkably well-balanced across our top categories, which mitigates the risk of over-reliance on a single segment.
 
-Top Categories: Electronics ($15.58M) and Sports & Outdoors ($15.35M) lead the pack.
+_Top Categories_: Electronics ($15.58M) and Sports & Outdoors ($15.35M) lead the pack.
 
-Key Partners: Brands like CoreTech and KiddoFun are our primary revenue drivers, each contributing over $9.3M.
+_Key Partners_: Brands like CoreTech and KiddoFun are our primary revenue drivers, each contributing over $9.3M.
 
 Recommendation: Given the slim margin between the top 6 categories, we should consider "Bundle Strategies" (e.g., Electronics + Sports) to increase the basket size further.
 
 __3. Operational Efficiency & Logistics__
 Our logistics operations appear stable, but there is room for optimization in order fulfillment.
 
-Cancellation Rate: Currently stands at 3.03%. While not alarming, reducing this to under 2% through better inventory synchronization could save approximately $1M in lost potential revenue.
+_Cancellation Rate_: Currently stands at 3.03%. While not alarming, reducing this to under 2% through better inventory synchronization could save approximately $1M in lost potential revenue.
 
-Shipping Costs: We maintain a consistent average shipping cost of $7.38 – $7.44 across all categories. This predictability is a strength for financial forecasting.
+_Shipping Costs_: We maintain a consistent average shipping cost of $7.38 – $7.44 across all categories. This predictability is a strength for financial forecasting.
 
 __4. Visual Insights__
-Monthly Sales Trend: Our sales show a consistent trajectory with manageable fluctuations, indicating a stable demand cycle.
+_Monthly Sales Trend_: Our sales show a consistent trajectory with manageable fluctuations, indicating a stable demand cycle.
 
-Order Status: Over 94% of our orders are successfully delivered or processed, showcasing a reliable supply chain.
+_Order Status_: Over 94% of our orders are successfully delivered or processed, showcasing a reliable supply chain.
 
 __Strategic Recommendations__ for Sustainability:
-US Market Retention: Implement a loyalty program focused on high-AOV customers in the US to protect our primary revenue stream.
+_US Market Retention_: Implement a loyalty program focused on high-AOV customers in the US to protect our primary revenue stream.
 
-Emerging Market Expansion: Increase marketing spend in India and Canada, where we already have a foothold but significant untapped potential.
+_Emerging Market Expansion_: Increase marketing spend in India and Canada, where we already have a foothold but significant untapped potential.
 
-Diversified Logistics: Evaluate why Electronics has slightly higher shipping costs. Small optimizations in packaging for this category could yield significant annual savings.
+_Diversified Logistics_: Evaluate why Electronics has slightly higher shipping costs. Small optimizations in packaging for this category could yield significant annual savings.
 
-Discount Optimization: Our data shows that high discounts do not always correlate linearly with massive volume spikes. I recommend a "Value-Based Pricing" model rather than heavy discounting to preserve margins.
+_Discount Optimization_: Our data shows that high discounts do not always correlate linearly with massive volume spikes. I recommend a "Value-Based Pricing" model rather than heavy discounting to preserve margins.
