@@ -12,14 +12,14 @@ The business shows robust health with __a total revenue of $91.83 Million__ with
 
 ## Key Insights & Strategic Pillars:
 
-__1. Financial Performance & Market Reach__
+__1. Financial Performance & Market Reach__<br>
 The revenue is anchored by the United States, which contributes $64.3M (approx. 70%) of total sales. India follows as a secondary but significant growth market.
 
 _Average Order Value (AOV)_: $918.26, indicating a premium-leaning customer base.
 
 _Payment Ecosystem_: Credit Cards are the dominant payment method ($32.1M), followed by Debit Cards and UPI. This suggests the customers prefer traditional and digital credit-based transactions.
 
-__2. Product Portfolio & Brand Strength__
+__2. Product Portfolio & Brand Strength__<br>
 The revenue is remarkably well-balanced across the top categories, which mitigates the risk of over-reliance on a single segment.
 
 _Top Categories_: Electronics ($15.58M) and Sports & Outdoors ($15.35M) lead the pack.
